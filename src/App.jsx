@@ -9,6 +9,7 @@ const App = () => {
       <List />
       <Chat />
       <Detail />
+      <Detail />
     </div>
   )
 }
